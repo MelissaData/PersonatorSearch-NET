@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PersonatorSearch_NET_REST.Properties {
+namespace PersonatorSearch_NET.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
